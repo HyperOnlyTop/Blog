@@ -23,7 +23,7 @@ const Home: React.FC = () => {
           <h1 className="text-5xl md:text-7xl font-extrabold text-white leading-[1.1] tracking-tight">
             Hi, I'm {PROFILE.name}. <br/>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-violet-600">
-              Network Developer
+               Web Developer and Software Engineer
             </span>
           </h1>
           <p className="text-xl text-slate-400 leading-relaxed max-w-2xl">
