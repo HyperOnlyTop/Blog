@@ -1,0 +1,9 @@
+
+{
+  "name": "Profile - Blog - Lập trình Mạng Java & JavaScript",
+  "description": "Một blog cá nhân tối giản chia sẻ kiến thức chuyên sâu về lập trình mạng,lập trình web và các vấn đề liên quan tập trung vào Java và JavaScript.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
