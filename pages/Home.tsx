@@ -45,6 +45,9 @@ const Home: React.FC = () => {
             alt={PROFILE.name} 
             className="relative w-56 h-56 md:w-72 md:h-72 rounded-full object-cover border-4 border-slate-900 shadow-2xl transition-transform duration-500 group-hover:scale-105"
           />
+          <p className="relative text-sm md:text-base font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-violet-500 text-center italic">
+        “Chậm nhưng chắc, vững từ nền tảng”
+</p>
         </div>
       </section>
 
